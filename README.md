@@ -9,3 +9,5 @@
 - [Лабораторная работа №5](https://github.com/v1k7oriy/CGT/files/10079529/KGT_lama5.pdf)
 - [Лабораторная работа №6](https://github.com/v1k7oriy/CGT/files/10079531/KGT_lama6.pdf)
 - [Лабораторная работа №7](https://github.com/v1k7oriy/CGT/files/10099121/KGT_lama7.pdf)
+- [Лабораторная работа №8](https://github.com/v1k7oriy/CGT/files/10157389/KGT_lama8.pdf)
+
